@@ -36,7 +36,6 @@ public class MontyHall{
 
     // random generate car position
     int car = (int)(Math.random() * 3 + 1);
-    System.out.println("Car is " + car);
 
     // user guess
     System.out.println("Please pick a door (1, 2, or 3): ");
